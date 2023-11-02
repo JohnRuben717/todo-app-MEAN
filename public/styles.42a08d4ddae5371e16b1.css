@@ -317,7 +317,7 @@ select {
 [type="reset"],
 [type="submit"],
 button {
-	-webkit-appearance: button;
+	appearance: button;
 }
 [type="button"]:not(:disabled),
 [type="reset"]:not(:disabled),
