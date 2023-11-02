@@ -1,7 +1,6 @@
 # Todo App built in MEAN Stack
 
 ## Set up
-- Copy the .env.example file in an .env file
 - Add proper config details in the .env file
 
 To install all the server dependencies, in the root folder, run
@@ -17,7 +16,7 @@ npm start
 If it ran successfully then you should see output similar to this in the console,
 ```bash
 Server started on http://localhost:3000
-Db connected successfully. mongodb://localhost:27017/stackhackTodo
+Db connected successfully. mongodb://127.0.0.1:27017/Internals
 ```
 
 Here,
