@@ -1,7 +1,5 @@
 # Todo App built in MEAN Stack
 
-## Set up
-- Add proper config details in the .env file
 
 To install all the server dependencies, in the root folder, run
 ```bash
